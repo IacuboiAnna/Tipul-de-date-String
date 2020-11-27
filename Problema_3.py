@@ -1,0 +1,5 @@
+a=input("Inrtoduceti primul cuvant:")
+b=input("Inrtoduceti al doilea cuvant:")
+c=input("Inrtoduceti al treilea cuvant:")
+d=input("Inrtoduceti al patrulea cuvant:")
+print(f'Am fost la {a} si am primit nota {b} la {c} pentru {d} realizat bine.')
